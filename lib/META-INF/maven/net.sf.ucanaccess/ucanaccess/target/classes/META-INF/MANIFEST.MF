@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ammar
+Build-Jdk: 17.0.8.1
+Implementation-Title: UCanAccess
+Implementation-Version: 5.0.1
+Implementation-Vendor-Id: net.sf.ucanaccess
+Implementation-Vendor: UCanAccess
+Implementation-URL: http://ucanaccess.sourceforge.net/site.html
+Created-By: Maven Integration for Eclipse
+
